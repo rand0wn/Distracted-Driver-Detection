@@ -21,6 +21,9 @@ Distracted driver detection trained on State Farm Dataset from Kaggle
 * Validation accuracy = 70.3% (N=2236)
 
 ## test.jpg inference
+
+--- 0.543210029602 seconds ---
+
 c1 0.23998111 -> True Label
 c4 0.20052847
 c3 0.20035508
