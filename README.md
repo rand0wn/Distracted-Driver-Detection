@@ -22,6 +22,8 @@ Distracted driver detection trained on State Farm Dataset from Kaggle
 
 ## test.jpg inference
 
+### Python
+
 --- 0.543210029602 seconds ---
 
 c1 0.23998111 -> True Label
@@ -30,5 +32,14 @@ c3 0.20035508
 c2 0.18340966
 c0 0.17572576
 
+### C++
+
+0m0.047s
+
+c1 (1): 0.239981
+c4 (4): 0.200529
+c3 (3): 0.200355
+c2 (2): 0.18341
+c0 (0): 0.175726
 
  
